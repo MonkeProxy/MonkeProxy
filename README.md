@@ -1,2 +1,1 @@
-Monke Moment
-MonkeProxy.ga
+Currently our 2 domains are:monkeproxy.ga and studyisland.ga
